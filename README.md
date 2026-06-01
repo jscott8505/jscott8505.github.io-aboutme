@@ -1,7 +1,7 @@
 # Hi, my name is Jazzmine
 
  ## About Me
-  _
+  
    - I am a student in Java+Android boot camp
  
   ### How To Reach Me
