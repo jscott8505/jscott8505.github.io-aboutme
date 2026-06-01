@@ -6,5 +6,5 @@
  
   ### How To Reach Me
   ___
-    - Linkdin: N/A
+    - Linkedin: N/A
     - Github: https://jscott8505.github.io
