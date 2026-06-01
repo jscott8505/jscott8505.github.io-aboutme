@@ -5,4 +5,4 @@
  ___
 
  #How to reach me
-  Github: jscott8505.github.io
+  -Github: jscott8505.github.io
