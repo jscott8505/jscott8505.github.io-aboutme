@@ -1,9 +1,9 @@
 # Hi, my name is Jazzmine
 
- ##About me
+ About Me
  ___
    -I am a student in Java+Android boot camp
  
-  ###How to reach me
+  How To Reach Me
   ___
     -Github: https://jscott8505.github.io
